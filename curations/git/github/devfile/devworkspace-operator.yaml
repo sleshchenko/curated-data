@@ -1,0 +1,10 @@
+coordinates:
+  name: devworkspace-operator
+  namespace: devfile
+  provider: github
+  type: git
+revisions:
+  # v0.8.0
+  8a18105d03ea4f90d0ec8407ae72e9e7caceca0d:
+    licensed:
+      declared: EPL-2.0
